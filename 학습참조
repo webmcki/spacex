@@ -1,0 +1,5 @@
+yarn add graphql express-graphql express axios
+yarn add --dev nodemon
+https://github.com/graphql/express-graphql
+https://github.com/r-spacex/SpaceX-API
+https://documenter.getpostman.com/view/2025350/RWaEzAiG
