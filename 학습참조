@@ -4,3 +4,8 @@ https://github.com/graphql/express-graphql
 https://github.com/r-spacex/SpaceX-API
 https://documenter.getpostman.com/view/2025350/RWaEzAiG
 .gitignore 파일생성
+yarn create react-app client
+한번에 서버/클라이언트 구동 => yarn add concurrently
+bootswatch.com UI 사용
+yarn add apollo-boost react-apollo graphql
+두서버 연결을 위해 yarn add cors
