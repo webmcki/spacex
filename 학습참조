@@ -9,3 +9,5 @@ yarn create react-app client
 bootswatch.com UI 사용
 yarn add apollo-boost react-apollo graphql
 두서버 연결을 위해 yarn add cors
+yarn add classnames moment react-moment
+yarn add react-router-dom
